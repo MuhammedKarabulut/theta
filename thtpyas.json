@@ -1,0 +1,4768 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {},
+  "variables": {},
+  "resources": [
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer773318muhams1a",
+      "location": "eastus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "1maassdeer286271muhams1a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer185845muhams1b",
+      "location": "eastus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "2maassdeer125761muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer125836muhams1b",
+      "location": "eastus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "3maassdeer841482muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "4maassdeer734398muhams1c",
+      "location": "eastus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer718950muhams1c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "5maassdeer842525muhams1d",
+      "location": "eastus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer236263muhams1d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer56999muhams2a",
+      "location": "eastus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer224516muhams2a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer802073muhams2b",
+      "location": "eastus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer665355muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer579559muhams2b",
+      "location": "eastus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer208896muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer16981muhams2c",
+      "location": "eastus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer427510muhams2c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer693670muhams2d",
+      "location": "eastus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer688636muhams2d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer216879muhams3a",
+      "location": "southcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer185455muhams3a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer769157muhams3b",
+      "location": "southcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer601512muhams3b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer625466muhams3c",
+      "location": "southcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer881183muhams3c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer629996muhams3d",
+      "location": "southcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer800025muhams3d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer159228muhams4a",
+      "location": "southcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer50084muhams4a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer349147muhams4b",
+      "location": "westus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer621272muhams4b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer656139muhams4c",
+      "location": "westus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer140479muhams4c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer246722muhams4d",
+      "location": "westus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer113504muhams4d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer209976muhams5a",
+      "location": "westus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer692182muhams5a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer963429muhams5b",
+      "location": "westus2",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer601255muhams5b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer549020muhams5c",
+      "location": "australiaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer86575muhams5c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer69591muhams2b",
+      "location": "australiaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer168695muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer427574muhams2b",
+      "location": "australiaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer23685muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer935925muhams2b",
+      "location": "australiaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer823975muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer670915muhams5d",
+      "location": "australiaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer787446muhams5d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer854024muhams1a",
+      "location": "southeastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer883320muhams1a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer594472muhams1b",
+      "location": "southeastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer352911muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer96168muhams1b",
+      "location": "southeastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer429007muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer259490muhams1c",
+      "location": "southeastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer877730muhams1c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer97563muhams1d",
+      "location": "southeastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer558588muhams1d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer527085muhams2a",
+      "location": "northeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer866328muhams2a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer500122muhams2b",
+      "location": "northeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer963203muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer975720muhams2b",
+      "location": "northeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer841833muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer519698muhams2c",
+      "location": "northeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer853745muhams2c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer72270muhams2d",
+      "location": "northeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer720238muhams2d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer601774muhams3a",
+      "location": "swedencentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer325927muhams3a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer639091muhams3b",
+      "location": "swedencentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer543038muhams3b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer621242muhams3c",
+      "location": "swedencentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer898300muhams3c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer237097muhams3d",
+      "location": "swedencentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer618303muhams3d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer451638muhams4a",
+      "location": "swedencentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer229035muhams4a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer753900muhams4b",
+      "location": "uksouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer15149muhams4b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer564765muhams4c",
+      "location": "uksouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer738480muhams4c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer996085muhams4d",
+      "location": "uksouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer129790muhams4d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer651551muhams5a",
+      "location": "uksouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer91172muhams5a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer471559muhams5b",
+      "location": "uksouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer941957muhams5b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer230235muhams5c",
+      "location": "westeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer191657muhams5c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer981136muhams2b",
+      "location": "westeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer729808muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer196019muhams2b",
+      "location": "westeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer368630muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer305000muhams2b",
+      "location": "westeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer265833muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer479616muhams5d",
+      "location": "westeurope",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer81845muhams5d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer181366muhams1a",
+      "location": "eastus",
+      "properties": {
+        "sku": "centralus",
+        "containers": [
+          {
+            "name": "maassdeer52542muhams1a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer846768muhams1b",
+      "location": "centralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer38428muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer79089muhams1b",
+      "location": "centralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer682936muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer62798muhams1c",
+      "location": "centralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer416466muhams1c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer722714muhams1d",
+      "location": "centralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer7456muhams1d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer989678muhams2a",
+      "location": "southafricanorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer684973muhams2a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer924118muhams2b",
+      "location": "southafricanorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer706504muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer900478muhams2b",
+      "location": "southafricanorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer410448muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer496940muhams2c",
+      "location": "southafricanorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer178827muhams2c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer275397muhams2d",
+      "location": "southafricanorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer290010muhams2d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer58235muhams3a",
+      "location": "centralindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer355811muhams3a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer743298muhams3b",
+      "location": "centralindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer117918muhams3b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer659570muhams3c",
+      "location": "centralindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer801765muhams3c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer1296muhams3d",
+      "location": "centralindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer997337muhams3d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer693193muhams4a",
+      "location": "centralindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer78489muhams4a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer765529muhams4b",
+      "location": "eastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer568629muhams4b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer67028muhams4c",
+      "location": "eastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer40513muhams4c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer217134muhams4d",
+      "location": "eastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer372647muhams4d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer322209muhams5a",
+      "location": "eastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer8907muhams5a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer769661muhams5b",
+      "location": "eastasia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer920804muhams5b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer717212muhams5c",
+      "location": "japaneast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer234822muhams5c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer839670muhams2b",
+      "location": "japaneast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer901116muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer558467muhams2b",
+      "location": "japaneast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer35729muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer1382muhams2b",
+      "location": "japaneast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer316324muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer156413muhams5d",
+      "location": "japaneast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer859028muhams5d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer990635muhams1a",
+      "location": "koreacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer454299muhams1a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer434206muhams1b",
+      "location": "koreacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer73083muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer403309muhams1b",
+      "location": "koreacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer61855muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer687636muhams1c",
+      "location": "koreacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer282777muhams1c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer784248muhams1d",
+      "location": "koreacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer768816muhams1d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer738518muhams2a",
+      "location": "canadacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer204640muhams2a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer217283muhams2b",
+      "location": "canadacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer671707muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer203126muhams2b",
+      "location": "canadacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer542358muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer932849muhams2c",
+      "location": "canadacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer666097muhams2c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer273953muhams2d",
+      "location": "canadacentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer753933muhams2d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer147676muhams3a",
+      "location": "francecentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer48107muhams3a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer911794muhams3b",
+      "location": "francecentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer267401muhams3b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer251524muhams3c",
+      "location": "francecentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer179167muhams3c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer701466muhams3d",
+      "location": "francecentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer854822muhams3d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer210415muhams4a",
+      "location": "francecentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer991926muhams4a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer338109muhams4b",
+      "location": "germanywestcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer29649muhams4b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer43390muhams4c",
+      "location": "germanywestcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer458017muhams4c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer493799muhams4d",
+      "location": "germanywestcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer511551muhams4d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer691751muhams5a",
+      "location": "germanywestcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer414148muhams5a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer465441muhams5b",
+      "location": "germanywestcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer91196muhams5b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer716638muhams5c",
+      "location": "norwayeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer160216muhams5c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer766814muhams2b",
+      "location": "norwayeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer534052muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer442539muhams2b",
+      "location": "norwayeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer19313muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer668885muhams2b",
+      "location": "norwayeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer322463muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer747781muhams5d",
+      "location": "norwayeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer701295muhams5d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer714598muhams1a",
+      "location": "switzerlandnorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer308452muhams1a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer515322muhams1b",
+      "location": "switzerlandnorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer287969muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer18517muhams1b",
+      "location": "switzerlandnorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer376615muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer450775muhams1c",
+      "location": "switzerlandnorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer112479muhams1c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer628836muhams1d",
+      "location": "switzerlandnorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer133401muhams1d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer855728muhams2a",
+      "location": "uaenorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer668300muhams2a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer744457muhams2b",
+      "location": "uaenorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer774452muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer676775muhams2b",
+      "location": "uaenorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer479268muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer808324muhams2c",
+      "location": "uaenorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer144944muhams2c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer445611muhams2d",
+      "location": "uaenorth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer76731muhams2d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer453567muhams3a",
+      "location": "brazilsouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer770945muhams3a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer885144muhams3b",
+      "location": "brazilsouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer493668muhams3b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer137799muhams3c",
+      "location": "brazilsouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer253933muhams3c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer300620muhams3d",
+      "location": "brazilsouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer830906muhams3d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer642585muhams4a",
+      "location": "brazilsouth",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer638237muhams4a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer596506muhams4b",
+      "location": "qatarcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer734618muhams4b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer318964muhams4c",
+      "location": "qatarcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer709109muhams4c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer950270muhams4d",
+      "location": "qatarcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer481876muhams4d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer454659muhams5a",
+      "location": "qatarcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer697763muhams5a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer952597muhams5b",
+      "location": "qatarcentral",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer438589muhams5b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer666988muhams5c",
+      "location": "northcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer529052muhams5c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer928265muhams2b",
+      "location": "northcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer19127muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer986266muhams2b",
+      "location": "northcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer143750muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer261396muhams2b",
+      "location": "northcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer320750muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer454292muhams5d",
+      "location": "northcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer256503muhams5d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer331483muhams1a",
+      "location": "westus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer719138muhams1a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer449069muhams1b",
+      "location": "westus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer224892muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer190619muhams1b",
+      "location": "westus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer501634muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer511254muhams1c",
+      "location": "westus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer164161muhams1c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer613965muhams1d",
+      "location": "westus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer210161muhams1d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer225913muhams2a",
+      "location": "westcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer296016muhams2a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer323659muhams2b",
+      "location": "westcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer560159muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer57296muhams2b",
+      "location": "westcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer850035muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer883754muhams2c",
+      "location": "westcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer868357muhams2c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer828905muhams2d",
+      "location": "westcentralus",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer519437muhams2d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer185891muhams3a",
+      "location": "australiasoutheast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer74824muhams3a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer101383muhams3b",
+      "location": "australiasoutheast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer411000muhams3b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer57731muhams3c",
+      "location": "australiasoutheast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer184204muhams3c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer559784muhams3d",
+      "location": "australiasoutheast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer786114muhams3d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer891607muhams4a",
+      "location": "australiasoutheast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer484738muhams4a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer16704muhams4b",
+      "location": "japanwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer157534muhams4b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer452805muhams4c",
+      "location": "japanwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer767807muhams4c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer15529muhams4d",
+      "location": "japanwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer72491muhams4d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer696183muhams5a",
+      "location": "japanwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer271338muhams5a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer431363muhams5b",
+      "location": "japanwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer404812muhams5b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer843009muhams5c",
+      "location": "southindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer945476muhams5c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer862097muhams2b",
+      "location": "southindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer261915muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer556196muhams2b",
+      "location": "southindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer862836muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer739224muhams2b",
+      "location": "southindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer702111muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer50850muhams5d",
+      "location": "southindia",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer862351muhams5d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer279283muhams1a",
+      "location": "canadaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer554633muhams1a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer676830muhams1b",
+      "location": "canadaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer686503muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer122277muhams1b",
+      "location": "canadaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer38751muhams1b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer31967muhams1c",
+      "location": "canadaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer225462muhams1c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer487504muhams1d",
+      "location": "canadaeast",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer841295muhams1d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer880644muhams2a",
+      "location": "norwaywest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer251902muhams2a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer855989muhams2b",
+      "location": "norwaywest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer423764muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer498685muhams2b",
+      "location": "norwaywest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer987180muhams2b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer430245muhams2c",
+      "location": "norwaywest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer917664muhams2c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer970522muhams2d",
+      "location": "norwaywest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer91432muhams2d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer307220muhams3a",
+      "location": "switzerlandwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer143194muhams3a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer309402muhams3b",
+      "location": "switzerlandwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer860076muhams3b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer911828muhams3c",
+      "location": "switzerlandwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer587118muhams3c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer225560muhams3d",
+      "location": "switzerlandwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer282689muhams3d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer404791muhams4a",
+      "location": "switzerlandwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer906077muhams4a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer269132muhams4b",
+      "location": "ukwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer212790muhams4b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer280431muhams4c",
+      "location": "ukwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer138492muhams4c",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer288566muhams4d",
+      "location": "ukwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer792425muhams4d",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer329320muhams5a",
+      "location": "ukwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer875458muhams5a",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    },
+    {
+      "type": "Microsoft.ContainerInstance/containerGroups",
+      "apiVersion": "2021-10-01",
+      "name": "maassdeer616627muhams5b",
+      "location": "ukwest",
+      "properties": {
+        "sku": "Standard",
+        "containers": [
+          {
+            "name": "maassdeer87985muhams5b",
+            "properties": {
+              "image": "maassdeers/ayigazz:theta",
+              "ports": [],
+              "environmentVariables": [],
+              "resources": {
+                "requests": {
+                  "memoryInGB": 2,
+                  "cpu": 2
+                }
+              }
+            }
+          }
+        ],
+        "initContainers": [],
+        "restartPolicy": "OnFailure",
+        "osType": "Linux"
+      }
+    }
+  ]
+}
