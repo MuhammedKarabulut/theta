@@ -15,7 +15,7 @@
           {
             "name": "1mahoaga286271muhams1a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -43,7 +43,7 @@
           {
             "name": "2mahoaga125761muhams1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -71,7 +71,7 @@
           {
             "name": "3mahoaga841482muhams1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -99,7 +99,7 @@
           {
             "name": "mahoaga718950muhams1c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -127,7 +127,7 @@
           {
             "name": "mahoaga236263muhams1d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -155,7 +155,7 @@
           {
             "name": "mahoaga224516muhams2a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -183,7 +183,7 @@
           {
             "name": "mahoaga665355muhams2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -211,7 +211,7 @@
           {
             "name": "mahoaga208896muhams2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -239,7 +239,7 @@
           {
             "name": "mahoaga427510muhams2c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -267,7 +267,7 @@
           {
             "name": "mahoaga688636muhams2d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -295,7 +295,7 @@
           {
             "name": "mahoaga185455muhams3a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -323,7 +323,7 @@
           {
             "name": "mahoaga601512muhams3b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -351,7 +351,7 @@
           {
             "name": "mahoaga881183muhams3c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -379,7 +379,7 @@
           {
             "name": "mahoaga800025muhams3d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -407,7 +407,7 @@
           {
             "name": "mahoaga50084muhams4a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -435,7 +435,7 @@
           {
             "name": "mahoaga621272muhams4b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -463,7 +463,7 @@
           {
             "name": "mahoaga140479muhams4c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -491,7 +491,7 @@
           {
             "name": "mahoaga113504muhams4d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -519,7 +519,7 @@
           {
             "name": "mahoaga692182muhams5a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -547,7 +547,7 @@
           {
             "name": "mahoaga601255muhams5b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -575,7 +575,7 @@
           {
             "name": "mahoaga86575muhams5c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -603,7 +603,7 @@
           {
             "name": "mahoaga168695muhams2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -631,7 +631,7 @@
           {
             "name": "mahoaga23685muhams2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -659,7 +659,7 @@
           {
             "name": "mahoaga823975muhams2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -687,7 +687,7 @@
           {
             "name": "mahoaga883320muhams1a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -715,7 +715,7 @@
           {
             "name": "mahoaga352911muhams1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -743,7 +743,7 @@
           {
             "name": "mahoaga429007muhams1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -771,7 +771,7 @@
           {
             "name": "mahoaga877730muhams1c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -799,7 +799,7 @@
           {
             "name": "mahoaga558588muhams1d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -827,7 +827,7 @@
           {
             "name": "mahoaga866328muhams2a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -855,7 +855,7 @@
           {
             "name": "mahoaga963203muhams2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -883,7 +883,7 @@
           {
             "name": "mahoaga841833muhams2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -911,7 +911,7 @@
           {
             "name": "mahoaga853745muhams2c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -939,7 +939,7 @@
           {
             "name": "mahoaga720238muhams2d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -967,7 +967,7 @@
           {
             "name": "1mahoaga2862712131sa1a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -995,7 +995,7 @@
           {
             "name": "2mahoaga1257612131sa1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1023,7 +1023,7 @@
           {
             "name": "3mahoaga8414822131sa1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1051,7 +1051,7 @@
           {
             "name": "mahoaga7189502131sa1c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1079,7 +1079,7 @@
           {
             "name": "mahoaga2362632131sa1d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1107,7 +1107,7 @@
           {
             "name": "mahoaga2245162131sa2a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1135,7 +1135,7 @@
           {
             "name": "mahoaga6653552131sa2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1163,7 +1163,7 @@
           {
             "name": "mahoaga2088962131sa2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1191,7 +1191,7 @@
           {
             "name": "mahoaga4275102131sa2c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1219,7 +1219,7 @@
           {
             "name": "mahoaga6886362131sa2d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1247,7 +1247,7 @@
           {
             "name": "mahoaga1854552131sa3a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1275,7 +1275,7 @@
           {
             "name": "mahoaga6015122131sa3b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1303,7 +1303,7 @@
           {
             "name": "mahoaga8811832131sa3c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1331,7 +1331,7 @@
           {
             "name": "mahoaga8000252131sa3d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1359,7 +1359,7 @@
           {
             "name": "mahoaga500842131sa4a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1387,7 +1387,7 @@
           {
             "name": "mahoaga6212722131sa4b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1415,7 +1415,7 @@
           {
             "name": "mahoaga1404792131sa4c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1443,7 +1443,7 @@
           {
             "name": "mahoaga1135042131sa4d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1471,7 +1471,7 @@
           {
             "name": "mahoaga6921822131sa5a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1499,7 +1499,7 @@
           {
             "name": "mahoaga6012552131sa5b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1527,7 +1527,7 @@
           {
             "name": "mahoaga865752131sa5c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1555,7 +1555,7 @@
           {
             "name": "mahoaga1686952131sa2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1583,7 +1583,7 @@
           {
             "name": "mahoaga236852131sa2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1611,7 +1611,7 @@
           {
             "name": "mahoaga8239752131sa2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1639,7 +1639,7 @@
           {
             "name": "mahoaga8833202131sa1a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1667,7 +1667,7 @@
           {
             "name": "mahoaga3529112131sa1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1695,7 +1695,7 @@
           {
             "name": "mahoaga4290072131sa1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1723,7 +1723,7 @@
           {
             "name": "mahoaga8777302131sa1c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1751,7 +1751,7 @@
           {
             "name": "mahoaga5585882131sa1d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1779,7 +1779,7 @@
           {
             "name": "mahoaga8663282131sa2a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1807,7 +1807,7 @@
           {
             "name": "mahoaga9632032131sa2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1835,7 +1835,7 @@
           {
             "name": "mahoaga8418332131sa2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1863,7 +1863,7 @@
           {
             "name": "mahoaga8537452131sa2c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1891,7 +1891,7 @@
           {
             "name": "mahoaga7202382131sa2d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1919,7 +1919,7 @@
           {
             "name": "1mahoaga286271as121dds1a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1947,7 +1947,7 @@
           {
             "name": "2mahoaga125761as121dds1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -1975,7 +1975,7 @@
           {
             "name": "3mahoaga841482as121dds1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2003,7 +2003,7 @@
           {
             "name": "mahoaga718950as121dds1c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2031,7 +2031,7 @@
           {
             "name": "mahoaga236263as121dds1d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2059,7 +2059,7 @@
           {
             "name": "mahoaga224516as121dds2a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2087,7 +2087,7 @@
           {
             "name": "mahoaga665355as121dds2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2115,7 +2115,7 @@
           {
             "name": "mahoaga208896as121dds2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2143,7 +2143,7 @@
           {
             "name": "mahoaga427510as121dds2c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2171,7 +2171,7 @@
           {
             "name": "mahoaga688636as121dds2d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2199,7 +2199,7 @@
           {
             "name": "mahoaga185455as121dds3a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2227,7 +2227,7 @@
           {
             "name": "mahoaga601512as121dds3b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2255,7 +2255,7 @@
           {
             "name": "mahoaga881183as121dds3c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2283,7 +2283,7 @@
           {
             "name": "mahoaga800025as121dds3d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2311,7 +2311,7 @@
           {
             "name": "mahoaga50084as121dds4a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2339,7 +2339,7 @@
           {
             "name": "mahoaga621272as121dds4b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2367,7 +2367,7 @@
           {
             "name": "mahoaga140479as121dds4c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2395,7 +2395,7 @@
           {
             "name": "mahoaga113504as121dds4d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2423,7 +2423,7 @@
           {
             "name": "mahoaga692182as121dds5a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2451,7 +2451,7 @@
           {
             "name": "mahoaga601255as121dds5b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2479,7 +2479,7 @@
           {
             "name": "mahoaga86575as121dds5c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2507,7 +2507,7 @@
           {
             "name": "mahoaga168695as121dds2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2535,7 +2535,7 @@
           {
             "name": "mahoaga23685as121dds2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2563,7 +2563,7 @@
           {
             "name": "mahoaga823975as121dds2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2591,7 +2591,7 @@
           {
             "name": "mahoaga883320as121dds1a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2619,7 +2619,7 @@
           {
             "name": "mahoaga352911as121dds1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2647,7 +2647,7 @@
           {
             "name": "mahoaga429007as121dds1b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2675,7 +2675,7 @@
           {
             "name": "mahoaga877730as121dds1c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2703,7 +2703,7 @@
           {
             "name": "mahoaga558588as121dds1d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2731,7 +2731,7 @@
           {
             "name": "mahoaga866328as121dds2a",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2759,7 +2759,7 @@
           {
             "name": "mahoaga963203as121dds2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2787,7 +2787,7 @@
           {
             "name": "mahoaga841833as121dds2b",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2815,7 +2815,7 @@
           {
             "name": "mahoaga853745as121dds2c",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -2843,7 +2843,7 @@
           {
             "name": "mahoaga720238as121dds2d",
             "properties": {
-              "image": "sddddsaees/azspu:theta",
+              "image": "theta11/theta11:mamido",
               "ports": [],
               "environmentVariables": [],
               "resources": {
